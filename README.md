@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# Build_1
+
+Developed with Unreal Engine 5
+=======
 # Traffic Simulator
 
 ## Description
@@ -59,3 +64,4 @@ Our expected man hour cost is 360 hours. Our total cost is 96,200 USD. Our man h
 4. Intermediate Version with Advanced Features (Late June)
 5. Testing and Beta Development Phase Begins (Early July)
 6. Final Version and Deliverables Ready (Late July/Early August) 
+>>>>>>> 70cf4c256f33bc4807cb87f17c3fa18d7db1ce39
